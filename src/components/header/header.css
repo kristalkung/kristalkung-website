@@ -5,9 +5,15 @@
     padding: 12px;
     position: relative;
     align-items: center;
-    background-image: url(/static/img/banner.png);
+    
 }
 
+.banner {
+    background-image: url("/src/static/img/banner-kristalkung.png");
+    background-size: cover;
+    height: 350px;
+    margin: 0;
+}
 .menu {
     display: flex;
     flex: 1;
@@ -29,7 +35,7 @@
 .logo {
     display: flex;
     font-size: 36px;
-    color: blue;
+    color: white;
     font-weight: 800;
 }
 

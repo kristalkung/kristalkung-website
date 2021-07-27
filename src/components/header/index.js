@@ -6,8 +6,9 @@ import Web from './web'
 function Header() {
   const [isOpen, setIsOpen] = React.useState(false);
   return (
-    <div className='header'>
-      <div className='logo'> Kristal Kung </div>
+    <div className='banner'>
+      <div className='header'>
+      <div className='logo'></div>
       <div className='menu'>
         <div className='web-menu'> <Web /> </div>
         <div className='mobile-menu'> 
@@ -19,6 +20,8 @@ function Header() {
         </div>
         </div>
     </div>
+    </div>
+    
   )
 }
 
