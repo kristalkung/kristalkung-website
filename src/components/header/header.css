@@ -5,7 +5,7 @@
     padding: 12px;
     position: relative;
     align-items: center;
-    background-image: '/public/banner.png';
+    background-image: url('/banner.png');
 }
 
 .menu {
