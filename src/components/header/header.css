@@ -9,9 +9,11 @@
 }
 
 .banner {
+    /* display: flex; */
+    /* flex: 1; */
     background-image: url("/src/static/img/banner-kristalkung.png");
     background-size: cover;
-    height: 350px;
+    height: 300px;
     margin: 0;
 }
 .menu {

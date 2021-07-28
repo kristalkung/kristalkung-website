@@ -24,6 +24,6 @@
     margin-right: 4px;
 }
 
-.web-option {
-
+.web-option:last-child {
+    margin-right: 0px;
 }
