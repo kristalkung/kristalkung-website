@@ -6,13 +6,11 @@ function About() {
     <div className='about'>
       <div className='about-top'>
         <div className='about-info'>
-
-        </div>
-        <div className='about-photo'>
           Hello there 👋, I'm 
           <br /> <span className='info-name'>Kristal Kung</span>.
-          <br /> Software engineer 💡 Home cook 🍔 
-          <br /> Runner 🏃🏻‍♀️ Reader 📚 Ice cream enthusiast 🍦
+          <br /> Software engineer 💡
+          <br /> Home cook 🍔  Reader 📚 
+          <br /> Ice cream enthusiast 🍦
         </div>
         <div className='about-photo'>
           <img className='picture' src={require('../../../static/img/about-pic.png').default} alt=''/>
