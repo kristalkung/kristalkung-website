@@ -1,4 +1,5 @@
 import React from 'react'
+import SocialContact from '../../common/social-contact'
 import './about.css'
 
 function About() {
@@ -16,8 +17,7 @@ function About() {
           <img className='picture' src={require('../../../static/img/about-pic.png').default} alt=''/>
         </div>
       </div>
-      <div className='about-bottom'> This is contacts buttons 
-      </div>
+      <SocialContact />
     
     </div>
   )
