@@ -4,8 +4,6 @@
     padding-right: 2px;
 }
 
-/*  */
-
 .project-card {
     flex: 1;
     display: flex;
@@ -26,6 +24,7 @@
 .project-title {
     font-size: 20px;
     font-weight: 600;
+    color: black;
 }
 
 .project-tags {
