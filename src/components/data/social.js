@@ -1,22 +1,22 @@
 export const SocialData = [
     {
         platform: "LinkedIn",
-        link: "www.linkedin.com/in/kristalkung",
-        icon: require('../../../src/img/linkedin.png').default
+        link: "https://www.linkedin.com/in/kristalkung",
+        icon: require('../../../src/static/img/linkedin.png').default
     },
     {
         platform: "Github",
-        link: "www.github.com/kristalkung",
-        icon: require('../../../src/img/github.png').default
+        link: "https://www.github.com/kristalkung",
+        icon: require('../../../src/static/img/github.png').default
     },
     {
         platform: "Email",
-        link: "kristalkung@gmail.com",
-        icon: require('../../../src/img/gmail.png').default
+        link: "mailto:kristalkung@gmail.com",
+        icon: require('../../../src/static/img/gmail.png').default
     },
     {
         platform: "Twitter",
         link: "https://twitter.com/KristalKung",
-        icon: require('../../../src/img/gmail.png').default
+        icon: require('../../../src/static/img/twitter.png').default
     }
 ]
