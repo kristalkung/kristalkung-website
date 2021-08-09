@@ -9,7 +9,7 @@ function Projects() {
     <div className='projects'>
       <label className='section-title'>Projects</label>
       <div>
-        {data.map((project)=> {return <ProjectCard/>})}
+        {data.map((project)=> {return <ProjectCard project={project}/>})}
       </div>
     </div>
   )

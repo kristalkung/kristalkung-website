@@ -6,6 +6,7 @@ export const ProjectData = [
         tags: ["Python", "Flask", "PostgreSQL", "React", "React Router", "CSS", "Bootstrap"],
         demo: "https://www.youtube.com/watch?v=_tk0AGjsjgM",
         github: "https://github.com/kristalkung/kristalkung-recallama",
+        website: "http://www.recallama.com",
         image: require('../../../src/static/img/recallama.png').default
     },
     {
