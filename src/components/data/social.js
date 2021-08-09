@@ -13,5 +13,10 @@ export const SocialData = [
         platform: "Email",
         link: "kristalkung@gmail.com",
         icon: require('../../../src/img/gmail.png').default
+    },
+    {
+        platform: "Twitter",
+        link: "https://twitter.com/KristalKung",
+        icon: require('../../../src/img/gmail.png').default
     }
 ]
