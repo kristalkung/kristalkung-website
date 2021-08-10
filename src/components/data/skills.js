@@ -4,7 +4,7 @@ export const SkillsData=[
         list:[
             {
                 name:"React",
-                icon: <i class="devicon-react-original"></i>
+                icon: <i class="devicon-react-original colored"></i>
             },
             {
                 name:"Javascript",
@@ -12,19 +12,19 @@ export const SkillsData=[
             },
             {
                 name:"JQuery",
-                icon: <i class="devicon-jquery-plain-wordmark colored"></i>
+                icon: <i class="devicon-jquery-plain colored"></i>
             },
             {
                 name:"Bootstrap",
-                icon: <i class="devicon-bootstrap-plain-wordmark colored"></i>
+                icon: <i class="devicon-bootstrap-plain colored"></i>
             },
             {
                 name:"CSS",
-                icon: <i class="devicon-css3-plain-wordmark colored"></i>
+                icon: <i class="devicon-css3-plain colored"></i>
             },
             {
                 name:"HTML",
-                icon: <i class="devicon-html5-plain-wordmark colored"></i>
+                icon: <i class="devicon-html5-plain colored"></i>
             },
         ]
     },
@@ -33,19 +33,19 @@ export const SkillsData=[
         list:[
             {
                 name:"Python",
-                icon: <i class="devicon-python-plain-wordmark colored"></i>
+                icon: <i class="devicon-python-plain colored"></i>
             },
             {
                 name:"Flask",
-                icon: <i class="devicon-flask-original-wordmark colored"></i>
+                icon: <i class="devicon-flask-original colored"></i>
             },
             {
                 name:"PostgreSQL",
-                icon: <i class="devicon-postgresql-plain-wordmark colored"></i>
+                icon: <i class="devicon-postgresql-plain colored"></i>
             },
             {
                 name:"SQLAlchemy",
-                icon: <i class="devicon-sqlalchemy-original-wordmark colored"></i>
+                icon: <i class="devicon-sqlalchemy-plain colored"></i>
             },
         ]
     },
@@ -54,19 +54,20 @@ export const SkillsData=[
         list:[
             {
                 name:"VS Code",
-                icon: <i class="devicon-vscode-plain-wordmark colored"></i>
+                icon: <i class="devicon-vscode-plain colored"></i>
+
             },
             {
                 name:"Git",
-                icon: <i class="devicon-git-plain-wordmark colored"></i>
+                icon: <i class="devicon-git-plain colored"></i>
             },
             {
                 name:"Github",
-                icon: <i class="devicon-github-original-wordmark colored"></i>
+                icon: <i class="devicon-github-original colored"></i>
             },
             {
                 name:"Vagrant",
-                icon: <i class="devicon-vagrant-plain-wordmark colored"></i>
+                icon: <i class="devicon-vagrant-plain colored"></i>
             },
         ]
     }
