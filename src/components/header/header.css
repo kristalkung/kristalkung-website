@@ -13,8 +13,8 @@
     /* flex: 1; */
     background-image: url("/src/static/img/banner-kristalkung.png");
     background-size: cover;
-    height: 300px;
-    margin: 0;
+    height: 400px;
+    
 }
 .menu {
     display: flex;
@@ -51,5 +51,15 @@
     .logo {
         font-size: 24px;
     }
+    .banner {
+        height: 200px;
     }
+    }
+
+@media only screen and (max-width: 1024px){
+    .banner{
+        height: 150px;
+    }
+    }
+
     
