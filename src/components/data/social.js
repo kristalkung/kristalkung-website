@@ -1,7 +1,7 @@
 export const SocialData = [
     {
         platform: "LinkedIn",
-        link: "https://www.linkedin.com/in/kristalkung",
+        link: "https://www.linkedin.com/in/kristal-kung",
         icon: require('../../../src/static/img/linkedin.png').default
     },
     {
